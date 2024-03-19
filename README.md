@@ -5,7 +5,7 @@
 
 ## Short Description
 
-This repository contains a mobile application for managing todo lists. The TodoList Mobile App offers features such as creating, editing, and deleting tasks, as well as setting reminders for upcoming tasks. Built with modern Android development practices, including the MVVM architecture pattern and Room Persistence Library, this app provides a clean and intuitive user experience. Explore the repository to learn more about the implementation and to clone the project for your own use. This project serves as a technical test for Software Engineer Interns.
+This project serves as a technical test for Software Engineer Interns. This repository contains a mobile application for managing todo lists. The TodoList Mobile App offers features such as creating, editing, and deleting tasks, as well as setting reminders for upcoming tasks. Built with modern Android development practices, including the MVVM architecture pattern and Room Persistence Library, this app provides a clean and intuitive user experience. Explore the repository to learn more about the implementation and to clone the project for your own use. 
 
 ## Cloning the Project
 
@@ -13,9 +13,9 @@ To clone the project, follow these steps:
 1. Open a terminal window.
 2. Navigate to the directory where you want to clone the project
 3. Run the following command:
-   ```bash
-   git clone <repository-url>
-    ```
+```bash
+git clone <repository-url>
+ ```
 Replace `<repository_url>` with the URL of this repository.
 
 ### Technical Overview
